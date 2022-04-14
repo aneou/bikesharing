@@ -20,3 +20,4 @@ the final heatmap shows that subscribers are much more likely to give their gend
 
 ## Summary
 
+Bike sharing app is most likely most popular in NYC with men who have short commutes to work. While women also use it for commuting they are also more likely to use it for other activities in comparison to men. Most users of the app are subscribers.
